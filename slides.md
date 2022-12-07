@@ -3,6 +3,7 @@ theme: 'eloc'
 fonts:
   sans: '-apple-system'
   mono: 'D2Coding'
+download: true
 layout: 'center'
 class: 'text-center'
 ---
